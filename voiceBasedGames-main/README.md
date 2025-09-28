@@ -41,4 +41,4 @@ Contact
 
 For queries or ideas, reach out at: allwinap23@gmail.com
 
-Enjoy playing with your voice, and have fun coding! 🚀✨
+Enjoy playing with your voice, and have fun coding!
