@@ -34,7 +34,7 @@ A collection of interactive games controlled entirely by voice commands, built u
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 📧 Contact
-For questions or feedback, reach out at jeyamvishnu18@gmail.com
+For questions or feedback, reach out at allwinap23@gmail.com
 
 Enjoy the games and happy coding! 🎉
 
